@@ -1,9 +1,4 @@
-'''
-Source codes for Python Machine Learning By Example 3rd Edition (Packt Publishing)
-Chapter 5 Predicting Online Ads Click-through with Logistic Regression
-Author: Yuxi (Hayden) Liu (yuxi.liu.ece@gmail.com)
-'''
-
+# Logistic Regression for Click-Through Rate Prediction
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
