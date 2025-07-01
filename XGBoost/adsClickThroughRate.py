@@ -1,9 +1,3 @@
-'''
-Source codes for Python Machine Learning By Example 3rd Edition (Packt Publishing)
-Chapter 4 Predicting Online Ads Click-through with Tree-Based Algorithms
-Author: Yuxi (Hayden) Liu (yuxi.liu.ece@gmail.com)
-'''
-
 import pandas as pd
 import xgboost as xgb
 from sklearn.preprocessing import OneHotEncoder
